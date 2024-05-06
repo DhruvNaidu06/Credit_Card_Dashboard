@@ -1,5 +1,4 @@
 Credit Card Weekly Dashboard
-
 Welcome to the Credit Card Weekly Dashboard repository! 
 Developed a comprehensive credit card weekly dashboard that provides real time insights into key performing metrics and trends, enabling the stakeholders to monitor and analyze credit card operation effectively
 Features:
